@@ -163,7 +163,7 @@ nav {
   border-radius: 5px;
 }
 .featured-name {
-  font-size: 50px;
+  font-size: 45px;
   font-weight: 600;
   color: var(--text-color-second);
   margin-block: 20px;
@@ -572,6 +572,7 @@ footer {
   .nav-menu.responsive {
     left: 0;
   }
+
   .nav-menu {
     position: fixed;
     top: 80px;
@@ -732,4 +733,12 @@ footer {
   .input-field {
     width: 100%;
   }
+  .project-content h3 {
+    font-size: 12px;
+    margin-bottom: 8px;
+  }
+  .project-content h2{
+    font-size: 15px;
+  }
+  
 }
